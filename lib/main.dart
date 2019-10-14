@@ -17,7 +17,7 @@ class myApp extends StatelessWidget {
               'ABOUT',
               style: TextStyle(
                 fontFamily: 'Pacifico',
-                color: Colors.black,
+                color: Colors.white,
                 fontSize: 30.0,
                 fontWeight: FontWeight.bold,
               ),
@@ -31,7 +31,7 @@ class myApp extends StatelessWidget {
             children: <Widget>[
               CircleAvatar(
                 radius: 100.0,
-                backgroundImage: AssetImage('images/photo.jpg'),
+                backgroundImage: AssetImage('images/Heisenberg.jpg'),
               ),
               Text(
                 'Emran Imam',
