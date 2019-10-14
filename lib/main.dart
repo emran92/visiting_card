@@ -14,7 +14,7 @@ class myApp extends StatelessWidget {
           backgroundColor: Colors.black,
           title: Center(
             child: Text(
-              'ABOUT',
+              'VISITING CARD',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 color: Colors.white,
