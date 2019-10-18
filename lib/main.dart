@@ -68,14 +68,14 @@ class myApp extends StatelessWidget {
                 ),
               ),
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 15.0, vertical: 1.0),
+                padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 1.0),
                 child: Row(
                   children: <Widget>[
                     Container(
                       child: Center(
                         child: Padding(
                           padding: EdgeInsets.symmetric(
-                              horizontal: 25.0, vertical: 1.0),
+                              horizontal: 20.0, vertical: 1.0),
                           child: Column(
                             children: <Widget>[
                               Text(
@@ -103,7 +103,7 @@ class myApp extends StatelessWidget {
                       child: Center(
                         child: Padding(
                           padding: EdgeInsets.symmetric(
-                              horizontal: 25.0, vertical: 1.0),
+                              horizontal: 20.0, vertical: 1.0),
                           child: Column(
                             children: <Widget>[
                               Text(
@@ -131,7 +131,7 @@ class myApp extends StatelessWidget {
                       child: Center(
                         child: Padding(
                           padding: EdgeInsets.symmetric(
-                              horizontal: 25.0, vertical: 2.0),
+                              horizontal: 20.0, vertical: 2.0),
                           child: Column(
                             children: <Widget>[
                               Text(
@@ -222,7 +222,7 @@ class myApp extends StatelessWidget {
                       ),
                     ),
                     SizedBox(
-                      width: 80.0,
+                      width: 40.0,
                     ),
                     Container(
                       height: 50.0,
