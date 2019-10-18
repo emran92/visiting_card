@@ -1,4 +1,4 @@
-# Vising Card App Created with Flutter for Android and iOS
+# Vising Card UI Created with Flutter for Android and iOS
 
 ## Built With
 * [DART]
